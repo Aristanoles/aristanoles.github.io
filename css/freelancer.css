@@ -6,6 +6,9 @@
 
 body {
   font-family: 'Lato';
+  right:0;
+  left:0;
+  width:auto;
 }
 
 h1,
@@ -146,9 +149,6 @@ section h2 {
     padding-bottom: 1.5rem;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
-	right:0;
-	left:0;
-	width:auto;
   }
   #mainNav .navbar-brand {
     font-size: 2em;
